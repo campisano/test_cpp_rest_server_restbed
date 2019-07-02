@@ -1,0 +1,11 @@
+/build
+
+/external/asio/*
+!/external/asio/CMakeLists.txt
+/external/kashmir/*
+!/external/kashmir/CMakeLists.txt
+/external/restbed/*
+!/external/restbed/CMakeLists.txt
+
+/.cquery
+/.cquery_cached_index
